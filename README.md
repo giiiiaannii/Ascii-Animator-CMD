@@ -6,3 +6,5 @@ A python script to animate all your Ascii creations
 
 To start, you need to download the Ascii-Anime file
 - https://github.com/giiiiaannii/Ascii-Animator-CMD/archive/refs/heads/main.zip
+
+

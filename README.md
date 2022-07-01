@@ -2,4 +2,7 @@
 
 A python script to animate all your Ascii creations
 
-#Test
+# Explanation for running the script
+
+To start, you need to download the Ascii-Anime file
+

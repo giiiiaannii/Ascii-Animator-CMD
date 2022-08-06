@@ -12,3 +12,5 @@
 ## Intruction
  
  The project consists in being able to animate your GIF in ASCII Art directly from the CMD
+ 
+ Voici un exemple : 

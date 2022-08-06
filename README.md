@@ -19,3 +19,11 @@ https://user-images.githubusercontent.com/107991103/183251040-e70bc1ca-7e2f-40f3
 
 
 ## Installation 
+
+To install it is very simple, you just have to follow the instructions below.
+
+## Step 1
+
+To start, you must have python on your computer.
+
+Here is a link to help you install python : https://www.youtube.com/watch?v=ZDnwD3Z1tPc&ab_channel=WayToLearnX

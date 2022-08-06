@@ -34,4 +34,4 @@ https://user-images.githubusercontent.com/107991103/183251040-e70bc1ca-7e2f-40f3
 	 or
 	 pip install colorama`
 
-**And yes the installation is already finished, I told you it was simple **
+__And yes the installation is already finished, I told you it was simple __

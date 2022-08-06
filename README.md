@@ -45,7 +45,7 @@ https://user-images.githubusercontent.com/107991103/183251040-e70bc1ca-7e2f-40f3
 
 - This will open a cmd, in the cmd type `python banane.py`
 
-	<p align="center">🥳🥳__That's it, you have successfully launched the program!__🥳🥳</p>
+	🥳🥳__That's it, you have successfully launched the program!__🥳🥳
 
 ## How to create your own animation 
 
@@ -74,7 +74,7 @@ https://user-images.githubusercontent.com/107991103/183251040-e70bc1ca-7e2f-40f3
 
 ![ascii](https://user-images.githubusercontent.com/107991103/183254195-04055b00-9e37-4379-ad77-622b48ba7f45.PNG)
 
-<p align="center">There is surely a faster or better method so it's up to you to look</p>
+<p align="center">__There is surely a faster or better method so it's up to you to look.__ </p>
 
 ## Step 4
 
@@ -101,6 +101,8 @@ https://user-images.githubusercontent.com/107991103/183251040-e70bc1ca-7e2f-40f3
 <p align="center">
   🥳🥳__Now all you have to do is save, close and finally launch as seen above __🥳🥳
 </p>
+
+#### Excuse me for the level of English I am French and very bad in English 
 
 
 

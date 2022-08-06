@@ -1,4 +1,4 @@
-<p align="center">
+z<p align="center">
   <img width="500" src="https://user-images.githubusercontent.com/107991103/176902611-28aafaf4-bfa9-4ef2-9917-022ff5ce22c0.png" alt="Material Bread logo">
 </p>
 
@@ -26,6 +26,7 @@ https://user-images.githubusercontent.com/107991103/183251040-e70bc1ca-7e2f-40f3
 
 - To start, you must have python on your computer
 	Here is a link to help you install python : 
+	
 	https://www.youtube.com/watch?v=ZDnwD3Z1tPc&ab_channel=WayToLearnX
 
 - Then you have to install the requirements :

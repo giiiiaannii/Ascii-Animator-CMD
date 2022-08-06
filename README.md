@@ -32,6 +32,7 @@ https://user-images.githubusercontent.com/107991103/183251040-e70bc1ca-7e2f-40f3
 ## Step 2
 
 - Then you have to install the requirements :
+
 	 `pip install -r requirements.txt
 	 or
 	 pip install colorama`

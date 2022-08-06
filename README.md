@@ -45,7 +45,7 @@ https://user-images.githubusercontent.com/107991103/183251040-e70bc1ca-7e2f-40f3
 
 - This will open a cmd, in the cmd type `python banane.py`
 
-	🥳🥳That's it, you have successfully launched the program!🥳🥳
+	<p align="center">🥳🥳That's it, you have successfully launched the program!🥳🥳</p>
 
 ## How to create your own animation 
 

@@ -11,4 +11,4 @@
 
 ## Intruction
  
- ceci est un test
+ The project consists in being able to animate your GIF in ASCII Art directly from the CMD
